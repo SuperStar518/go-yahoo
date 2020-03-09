@@ -10,7 +10,7 @@ go-yahoo is go client for [Yahoo Web API](http://developer.yahoo.co.jp/)
 ## installation
 
 ```
-go get github.com/suisun2015/go-yahoo
+go get github.com/alidavid0418/go-yahoo
 ```
 
 go-yahoo need Application ID(auth token).
@@ -28,7 +28,7 @@ import (
   "fmt"
   "log"
 
-  "github.com/suisun2015/go-yahoo/auction"
+  "github.com/alidavid0418/go-yahoo/auction"
 )
 
 const (
